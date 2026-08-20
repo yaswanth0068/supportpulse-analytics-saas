@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large/raw data (optional - keep if you want the repo self-contained, exclude if raw file is large)
+# Dataset/Raw/support_tickets_raw.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.bak
+~$*.pbix
