@@ -21,15 +21,18 @@ DeskPulse Cloud Solutions (fictional SaaS company) has no visibility into where 
 Python (pandas, scikit-learn) · SQL (SQLite) · Power BI · Excel (openpyxl)
 
 ## Project Structure
-├── Dataset/ # Raw and cleaned ticket data
-├── Jupyter_Notebooks/ # Cleaning, EDA, modeling notebooks
-├── SQL/ # SLA compliance, resolution time, sentiment queries
-├── PowerBI/ # 3-page interactive dashboard
-├── Models/ # Trained SLA-breach classifier
-├── Outputs/ # Predictions, Excel executive workbook
-├── Images/ # EDA charts, dashboard screenshots
-├── Documentation/ # Business assumptions, methodology notes
-└── Reports/ # Executive summary, final report
+
+```
+├── Dataset/             # Raw and cleaned ticket data
+├── Jupyter_Notebooks/   # Cleaning, EDA, modeling notebooks
+├── SQL/                 # SLA compliance, resolution time, sentiment queries
+├── PowerBI/              # 3-page interactive dashboard
+├── Models/               # Trained SLA-breach classifier
+├── Outputs/              # Predictions, Excel executive workbook
+├── Images/               # EDA charts, dashboard screenshots
+├── Documentation/        # Business assumptions, methodology notes
+└── Reports/               # Executive summary, final report
+```
 
 
 ## Methodology
